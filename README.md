@@ -30,4 +30,4 @@ Es dient dazu, meine Fähigkeiten in HTML, CSS und JavaScript zu demonstrieren u
 - Umsetzung eines Projekts, das typische IT-Support-Prozesse simuliert  
 
 ## Screenshot
-Mini IT Ticket(screenshot.png).png
+![Screenshot Mini IT Ticket System](screenshot.png)
